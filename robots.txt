@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tefagedomuso.pages.dev/sitemap.xml
